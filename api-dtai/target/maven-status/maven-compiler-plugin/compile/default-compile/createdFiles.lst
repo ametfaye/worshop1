@@ -1,0 +1,7 @@
+org/cages/controller/BookController.class
+org/cages/controller/BookRepository.class
+org/cages/exception/BookNotFoundException.class
+org/cages/controller/AgentCAGES.class
+org/cages/exception/BookUnSupportedFieldPatchException.class
+org/cages/main/APIAgentInfosCagesApplication.class
+org/cages/exception/CustomGlobalExceptionHandler.class
